@@ -1,2 +1,2 @@
 # ammog-test
-Testin Repository
+Testing Repository
